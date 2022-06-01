@@ -1,0 +1,27 @@
+Choose a formatter: !help
+Available formatters: plain bold italic bold italic header link inline-code ordered-list unordered-list new-line
+Special commands: !help !done
+Choose a formatter: header
+Level: 1
+Text: Test
+# Test
+
+Choose a formatter: bold
+Text: Test
+**Test**
+Choose a formatter: inline-code
+Text: Test
+**Test**`Test`
+Choose a formatter: new-line
+**Test**`Test`
+
+Choose a formatter: ordered-list
+Number of rows: 2
+Row #1 test1
+Row #2 test2
+1. test1
+2. test2
+
+Choose a formatter: !done
+
+Process finished with exit code 0
