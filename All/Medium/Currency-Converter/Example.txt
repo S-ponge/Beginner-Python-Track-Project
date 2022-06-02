@@ -1,0 +1,14 @@
+Enter current currency: USD
+Enter target currency, leave blank to exit: EUR
+Enter current currency amount, leave blank to exit: 1000
+Checking the cache...
+Oh! It is in the cache!
+You received 936.52 EUR.
+Enter target currency, leave blank to exit: CAD
+Enter current currency amount, leave blank to exit: 1000
+Checking the cache...
+Oh! It is in the cache!
+You received 1266.58 CAD.
+Enter target currency, leave blank to exit: 
+
+Process finished with exit code 0
