@@ -1,0 +1,9 @@
+3
+News
+Done!
+
+Process finished with exit code 0
+
+It scraped all articles on https://www.nature.com/nature/articles?sort=PubDate&year=2020 from page 1 to 3
+
+URL is hard-coded, but it can be changed easily
