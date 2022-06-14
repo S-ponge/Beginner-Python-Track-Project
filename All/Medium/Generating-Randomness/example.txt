@@ -1,0 +1,26 @@
+Print a random string containing 0 or 1:
+010100100101010101000010001010101010100100100101001
+Current data length is 51, 49 symbols left
+
+Print a random string containing 0 or 1:
+011010001011111100101010100011001010101010010001001010010011
+Final data string:
+010100100101010101000010001010101010100100100101001011010001011111100101010100011001010101010010001001010010011
+
+Print a random string containing 0 or 1:
+0111001001
+prediction:
+0100101011
+Computer guessed right 4 out of 7 symbols (57.14 %)
+Your balance is now $999
+Print a random string containing 0 or 1:
+01010010010111001001010010111001
+prediction:
+01010110110100101011010110100101
+Computer guessed right 19 out of 29 symbols (65.52 %)
+Your balance is now $990
+Print a random string containing 0 or 1:
+enough
+Game over!
+
+Process finished with exit code 0
