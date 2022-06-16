@@ -1,0 +1,90 @@
+German Translations:
+Beispiel n
+
+German Example:
+The example assumes that the digital Web-IO is not password protected.
+Bei diesem Beispiel wird davon ausgegangen, daß das digitale Web-IO nicht durch ein Passwort geschützt ist.
+
+Turkish Translations:
+örnek
+
+Turkish Example:
+The DegreeDays example file uses this capability.
+Aşağıdaki örnek, bu yeteneği göstermek için Slack kullanır.
+
+Spanish Translations:
+ejemplo m
+
+Spanish Example:
+Another oft-cited example is overcoming coordination problems.
+Otro ejemplo muy citado es el de la superación de problemas de coordinación.
+
+French Translations:
+exemple m
+
+French Example:
+It represents another successful example of co-operative federalism.
+C'est un autre exemple des résultats positifs que peut donner le fédéralisme coopératif.
+
+Dutch Translations:
+voorbeeld n
+
+Dutch Example:
+My third example is institutional reform.
+Derde voorbeeld: de hervorming van de instellingen.
+
+Portuguese Translations:
+exemplo m
+
+Portuguese Example:
+The most famous example is probably methylcyclopentadienyl manganese tricarbonyl.
+Provavelmente, o exemplo mais conhecido é o maganês tricarbonil metilciclopentadienila.
+
+Italian Translations:
+esempio m
+
+Italian Example:
+Very poor example of southern sportsmanship.
+Un brutto esempio di spirito sportivo del sud.
+
+Japanese Translations:
+例
+
+Japanese Example:
+One example of Homing using the All button follows...
+Allボタンを使っている原点行きの1例が、あとに続きます...
+
+Hebrew Translations:
+דוגמה
+
+Hebrew Example:
+Enter your Passport sign-in name (example:).
+הזן את שם הכניסה שלך ל - Passport (דוגמה:).
+
+Polish Translations:
+przykład m
+
+Polish Example:
+Many other countries could follow its example.
+Może on stanowić przykład do naśladowania dla innych państw.
+
+Russian Translations:
+пример m
+
+Russian Example:
+Maybe we could set an example.
+Может быть, мы могли бы подать пример.
+
+Romanian Translations:
+exemplu n
+
+Romanian Example:
+But that was obviously an extreme example.
+Dar, evident, acesta este un exemplu dus la extrem.
+
+Arabic Translations:
+مثال
+
+Arabic Example:
+Textbook example of inappropriate workplace conversation.
+هذا مثال نموذجي عن محادثة غير لائقة في مكان العمل.
