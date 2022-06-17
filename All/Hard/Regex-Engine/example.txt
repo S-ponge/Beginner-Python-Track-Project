@@ -1,0 +1,9 @@
+type 'regex|test_word' or 'exit': ^e*xa\?mp+l?e$|xa?mpppe
+True
+type 'regex|test_word' or 'exit': colou\?r|color
+False
+type 'regex|test_word' or 'exit': 3\+3|3+3=6
+True
+type 'regex|test_word' or 'exit': exit
+
+Process finished with exit code 0
