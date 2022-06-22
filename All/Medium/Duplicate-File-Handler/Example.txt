@@ -1,0 +1,53 @@
+>py handler.py D:\test_folder
+(leave empty for all) Enter file format:
+Size sorting options:
+1. Descending
+2. Ascending
+Enter a sorting option: 1
+
+35 bytes
+D:\test_folder\info.txt
+D:\test_folder\files\some_text.txt
+
+34 bytes
+D:\test_folder\python.txt
+D:\test_folder\files\stage\src\src.txt
+D:\test_folder\files\stage\src\toggleminimenu.js
+D:\test_folder\project\extraversion.csv
+D:\test_folder\project\index.html
+D:\test_folder\project\python_copy.txt
+
+32 bytes
+D:\test_folder\lost.json
+D:\test_folder\phones.csv
+D:\test_folder\calc\bikeshare.csv
+D:\test_folder\calc\server.php
+D:\test_folder\files\db_cities.js
+D:\test_folder\files\stage\cars.json
+D:\test_folder\files\stage\package-lock.json
+D:\test_folder\files\stage\src\index.js
+D:\test_folder\files\stage\src\libs.txt
+D:\test_folder\files\stage\src\reviewslider.js
+D:\test_folder\files\stage\src\spoiler.js
+(yes, no) Check for duplicates? yes
+
+35 bytes
+Hash: d63a4f1856c5fa167b1aaa6529d9846f
+1. D:\test_folder\info.txt
+2. D:\test_folder\files\some_text.txt
+
+34 bytes
+Hash: a5ceea9b58986bc87fb85f999d76d9db
+3. D:\test_folder\python.txt
+4. D:\test_folder\project\python_copy.txt
+
+32 bytes
+Hash: 95708df6eb2d9e30c128cf14dcf91f5b
+5. D:\test_folder\lost.json
+6. D:\test_folder\files\stage\cars.json
+Hash: c2a5ad1655d8d46d7d699594c1ee0dec
+7. D:\test_folder\phones.csv
+8. D:\test_folder\calc\bikeshare.csv
+(yes, no) Delete files? yes
+Enter file numbers to delete:1 2 4 5 8
+Total freed up space: 168 Bytes
