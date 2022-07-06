@@ -1,0 +1,1 @@
+py flashcards.py --import_from=save.txt --export_to=save.txt
