@@ -1,0 +1,5 @@
+Only one file
+py code_analyzer.py *YOUR_DIRECTORY*\Static-Code-Analyzer\Test Files\test_1.py
+
+Multiple files
+py code_analyzer.py *YOUR_DIRECTORY*\Static-Code-Analyzer\Test Files
